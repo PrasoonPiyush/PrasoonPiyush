@@ -12,8 +12,8 @@
 ---
 
 ## 🚀 What I'm Working On
-- Developing the **GyanGanga website** for accessible education  
-- Building the **GyanGanga app** to complement the web experience  
+- Developing the **GyanVart website** for accessible education  
+- Building the **GyanVart app** to complement the web experience  
 
 ---
 
